@@ -1,1 +1,2 @@
-# Embedding-mxbai-embed-large
+Notebook para calculo de Embedding com mxbai-embed-large
+
